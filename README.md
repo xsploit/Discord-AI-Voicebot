@@ -55,7 +55,7 @@ python -m pip install discord-ext-voice-recv
 
 ### 4. Set Up Your Discord Bot Token
 
-Create a `.env` file in the root of your project and add your **Discord Bot Token**:
+Paste in Discord Token
 
 ```env
 DISCORD_BOT_TOKEN=your-discord-bot-token-here
