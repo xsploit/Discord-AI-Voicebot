@@ -31,8 +31,8 @@ You will also need a **Discord Bot Token** to connect the bot to your server. Yo
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/discord-bot-voice-chat.git
-cd discord-bot-voice-chat
+[git clone https://github.com/your-username/discord-bot-voice-chat.git
+cd discord-bot-voice-chat](https://github.com/xsploit/Discord-AI-Voicebot.git)
 ```
 
 ### 2. Set Up a Virtual Environment
