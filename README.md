@@ -72,7 +72,7 @@ If you are using **PiperTTS**, ensure that the necessary model files are located
 Once everything is set up, you can start the bot by running the following command:
 
 ```bash
-python bot.py
+python main.py
 ```
 
 The bot will log into Discord, join voice channels, listen for voice or text commands, and generate voice clips based on its responses.
