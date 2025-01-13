@@ -47,7 +47,7 @@ source venv/bin/activate  # On Windows use `venv\Scriptsctivate`
 ### 3. Install Dependencies
 
 Install the required Python packages:
-
+install requirements.txt or
 ```bash
 pip install discord.py[voice] sentence-transformers faiss-cpu numpy aiohttp speechrecognition ollama python-dotenv
 python -m pip install discord-ext-voice-recv
