@@ -1,7 +1,7 @@
 
 # Discord Bot with Voice Chat and Voice Clips
 
-This project is a **Discord bot** that integrates both **text-based and voice-based interactions**. It supports voice chat, voice clips, and leverages advanced AI models to engage in dynamic conversations with users. The bot uses AI memory to store past conversations and provides relevant context to ongoing chats. It can generate and play back **text-to-speech (TTS)** responses and recognize **user speech** for voice commands.
+This project is a **Discord bot** that integrates both **text-based and voice-based interactions**. It supports voice chat, voice clips, and leverages advanced AI models to engage in dynamic conversations with users. The bot uses AI memory to store past conversations and provides relevant context to ongoing chats. It can generate and play back **text-to-speech (TTS)** responses and recognize **user speech**.
 
 ## Features:
 - **Text and Voice Interactions**: The bot can respond to both text-based and voice-based messages.
