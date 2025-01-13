@@ -1,2 +1,2 @@
-pip install discord.py[voice] sentence-transformers faiss-cpu numpy aiohttp speechrecognition ollama python-dotenv 
+pip install discord.py[voice] discord.py sentence-transformers faiss-cpu numpy aiohttp speechrecognition ollama python-dotenv 
 python -m pip install discord-ext-voice-recv
